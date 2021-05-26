@@ -27,7 +27,7 @@ module.exports={
                     
                     cart.push({
                         ...productToJson,
-                        quantity: cart[property]
+                        quantity: cartObj[property]
                     })
                 }
 
