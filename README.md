@@ -4,4 +4,5 @@
 Fake API for your online store prototype
 
 # Documentation
-Read the docs at http://fakeshop-api.com
+Read the docs at https://www.fakeshop-api.com/docs
+
